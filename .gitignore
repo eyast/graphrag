@@ -65,3 +65,8 @@ ragtest/
 .ragtest/
 .pipelines
 .pipeline
+
+settings.yaml
+.vscode/*
+.vscode/launch.json
+christmas.txt
