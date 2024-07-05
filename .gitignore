@@ -75,4 +75,5 @@ input/*
 output/*
 cache/*
 graphrag/config/defaults.py
+scripts/*
 
