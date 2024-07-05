@@ -70,3 +70,9 @@ settings.yaml
 .vscode/*
 .vscode/launch.json
 christmas.txt
+
+input/*
+output/*
+cache/*
+graphrag/config/defaults.py
+
